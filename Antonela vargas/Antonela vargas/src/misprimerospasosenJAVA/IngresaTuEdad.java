@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class IngresaTuEdad {
  
     public static void main(String[] args) {
-        Sanner guardar=new Scanner(source:system.in);
+        Scanner guardar=new Scanner ( :system.in)
         System.out.println("ingresa tu edad:");
         int edad=guardar.nextInt();
         System.out.println("tu edad es:"+edad);
